@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shaik Moukhil 👋
 
-<!--
-**moukhil/moukhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Data Science Engineer  
+💻 Full Stack Web Developer | Java (DSA)  
+🌱 Passionate about building real-world applications  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Java, Python, JavaScript
+- HTML, CSS, React, Tailwind CSS
+- MongoDB, Git
+- VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🏆 E-Printing Web App – Hackathon Winning Project
+- 🍽️ Food Recipe Website – API-based project
+- 🔳 QR Code Generator – Mini project
+
+## 📫 Contact
+- Email: shaikmoukhil@gmail.com
+- LinkedIn: https://linkedin.com/in/moukhil-shaik
