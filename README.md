@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/moukhil" width="140" />
 </p>
 
-<h1 align="center">Hey, I'm Shaik Moukhil 👋</h1>
+<h1 align="center">Hey, I'm Shaik Moukhil</h1>
 
 <p align="center">
   <b>Computer Science & Data Science Engineer</b><br>
@@ -10,48 +10,61 @@
 </p>
 
 <p align="center">
-  🚀 Building real-world projects <br>
-  🧠 Learning by doing <br>
-  💻 Turning ideas into code
+  <table align="center">
+    <tr>
+      <td><img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" width="18" /></td>
+      <td>Building real-world projects</td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="18" /></td>
+      <td>Learning by doing</td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="18" /></td>
+      <td>Turning ideas into code</td>
+    </tr>
+  </table>
 </p>
+
+
 
 ---
 
-## 🧑‍💻 About Me
+<h2>About Me</h2>
 
-- 🎓 Engineering student with strong **CS fundamentals**
-- 🌐 Full Stack Developer (Frontend + Backend basics)
-- 🧩 Love solving problems using **Java & DSA**
-- 🏆 Hackathon winner with a real-world project
-- 📈 Focused on **clean code, logic & UI**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26"/> Engineering student with strong **Computer Science fundamentals**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="26"/> **Full Stack Developer** with solid frontend & backend basics
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26"/> Passionate about **Java & Data Structures (DSA)** problem solving
+- <img src="https://img.icons8.com/color/48/trophy.png" width="26"/> **Hackathon winner**, built a real-world problem-solving project
+- <img src="https://img.icons8.com/color/48/code.png" width="26"/> Focused on **clean code, strong logic, and good UI design**
 
 I believe in **projects over certificates** and **skills over titles**.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills
 
 ### 👨‍💻 Languages
-- Java  
-- Python  
-- JavaScript  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26"/> Java  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26"/> Python
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26"/> JavaScript
+  
 
 ### 🌐 Web Development
-- HTML5  
-- CSS3  
-- React.js  
-- Tailwind CSS  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="26"/> HTML5
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="26"/> CSS3
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="26"/> React.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="26"/> Tailwind CSS
 
 ### 🗄️ Database & Tools
-- MongoDB  
-- Git & GitHub  
-- VS Code  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="26"/> MongoDB
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26"/> Git & GitHub
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="26"/> VS Code
 
 ### 🧠 Core CS
-- Data Structures & Algorithms (Java)
-- OOP Concepts
-- Problem Solving
-
+- <img src="https://img.icons8.com/color/48/flow-chart.png" width="26"/> Data Structures & Algorithms (Java)
+- <img src="https://img.icons8.com/color/48/class.png" width="26"/> OOP Concepts
+- <img src="https://img.icons8.com/color/48/idea.png" width="26"/> Problem Solving
 ---
 
 ## 🚀 Featured Projects
