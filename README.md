@@ -96,8 +96,8 @@ I believe in **projects over certificates** and **skills over titles**.
 ## 📫 Let’s Connect
 
 - 📧 Email: **shaikmoukhil@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/YOUR-LINKEDIN-URL**
-- 🐙 GitHub: **https://github.com/YOUR_GITHUB_USERNAME**
+- 💼 LinkedIn: **https://linkedin.com/in/moukhil-shail**
+- 🐙 GitHub: **https://github.com/moukhil**
 
 ---
 
