@@ -38,15 +38,15 @@ I believe in **projects over certificates** and **skills over titles**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
-### 👨‍💻 Languages
+### Languages
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="26"/> Java  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26"/> Python
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26"/> JavaScript
   
 
-### 🌐 Web Development
+### Web Development
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="26"/> HTML5
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="26"/> CSS3
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="26"/> React.js
@@ -55,46 +55,48 @@ I believe in **projects over certificates** and **skills over titles**.
 - <img src="https://skillicons.dev/icons?i=nodejs" width="26"/> Node.js
 - <img src="https://skillicons.dev/icons?i=express" width="26"/> Express.js
 
-### 🗄️ Database & Tools
+### Database & Tools
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="26"/> MongoDB
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26"/> MySQL
 - <img src="https://skillicons.dev/icons?i=postman" width="26"/> Postman
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26"/> Git & GitHub
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="26"/> VS Code
 
-### 🧠 Core CS
+### Core CS
 - <img src="https://img.icons8.com/color/48/flow-chart.png" width="26"/> Data Structures & Algorithms (Java)
 - <img src="https://img.icons8.com/color/48/class.png" width="26"/> OOP Concepts
 - <img src="https://img.icons8.com/color/48/idea.png" width="26"/> Problem Solving
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏆 E-Printing Web Application
-**Hackathon Winning Project**
-- Digital printing management system
-- Reduced manual effort using a web-based solution
-- Built with modern web technologies
+### E-Printing Application (Hackathon Winner)
+Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MongoDB
+• Developed a full-stack E-Printing platform using React.js, Node.js, Express.js, and MongoDB, enabling users to upload documents, customize print options, manage carts, and place print orders through a responsive web interface. 
+• Implemented secure REST APIs for authentication, file handling, cart and order management, along with an admin dashboard to monitor print requests and manage orders, contributing to a Hackathon-winning solution.
 
-🔗 Repo: *(add link)*
 
----
-
-### 🍽️ Food Recipe Website (API-Based)
-- Fetches real-time recipes using API
-- Search, explore, and view detailed recipes
-- Clean UI and responsive design
-
-🔗 Repo: *(add link)*
+🔗 Repo: *https://github.com/moukhil/e-printing*
 
 ---
 
-### 🔳 QR Code Generator
-- Generate QR codes instantly
-- Simple, fast, and lightweight mini project
-- Great example of logic + UI
+### Food Recipe Application                                                                         
+Tech Stack: React.js, Tailwind CSS, Spring Boot, MySQL, Maven
+• Engineered a full-stack recipe management system with React.js and Spring Boot, providing recipe search, detailed recipe views, recipe creation, and popular recipe recommendations. 
+• Implemented RESTful APIs with Spring Data JPA and MySQL for persistent data storage, optimized frontend-backend communication, and deployed the application on Vercel and Render.
 
-🔗 Repo: *(add link)*
+
+🔗 Repo: *https://github.com/moukhil/food-recipe*
+
+---
+
+### Secure File Transfer System                                                                  
+Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
+• Developed a full-stack Secure File Transfer System using React.js, Node.js, Express.js, and MongoDB, enabling authenticated users to securely upload, share, and access files through QR-based file transfer with JWT authentication and role-based access control. 
+• Implemented key features including user registration/login, protected REST APIs, admin approval dashboard, file upload, inbox, notifications, and QR code generation/scanning, then deployed the application using Vercel (frontend), Render (backend), and MongoDB Atlas (database).
+
+
+🔗 Repo: *https://github.com/moukhil/secure-file-transfer-qr*
 
 ---
 
