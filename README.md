@@ -51,9 +51,14 @@ I believe in **projects over certificates** and **skills over titles**.
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="26"/> CSS3
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="26"/> React.js
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="26"/> Tailwind CSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="26"/> Spring Boot
+- <img src="https://skillicons.dev/icons?i=nodejs" width="26"/> Node.js
+- <img src="https://skillicons.dev/icons?i=express" width="26"/> Express.js
 
 ### 🗄️ Database & Tools
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="26"/> MongoDB
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26"/> MySQL
+- <img src="https://skillicons.dev/icons?i=postman" width="26"/> Postman
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26"/> Git & GitHub
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="26"/> VS Code
 
