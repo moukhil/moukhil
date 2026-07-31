@@ -73,38 +73,42 @@ I believe in **projects over certificates** and **skills over titles**.
 ### E-Printing Application (Hackathon Winner)
 Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MongoDB
 • Developed a full-stack E-Printing platform using React.js, Node.js, Express.js, and MongoDB, enabling users to upload documents, customize print options, manage carts, and place print orders through a responsive web interface. 
+
 • Implemented secure REST APIs for authentication, file handling, cart and order management, along with an admin dashboard to monitor print requests and manage orders, contributing to a Hackathon-winning solution.
 
 
-🔗 Repo: *https://github.com/moukhil/e-printing*
+Repo: *https://github.com/moukhil/e-printing*
+Live Demo: *https://e-printing-frontend.vercel.app/*
 
 ---
 
 ### Food Recipe Application                                                                         
 Tech Stack: React.js, Tailwind CSS, Spring Boot, MySQL, Maven
 • Engineered a full-stack recipe management system with React.js and Spring Boot, providing recipe search, detailed recipe views, recipe creation, and popular recipe recommendations. 
+
 • Implemented RESTful APIs with Spring Data JPA and MySQL for persistent data storage, optimized frontend-backend communication, and deployed the application on Vercel and Render.
 
 
-🔗 Repo: *https://github.com/moukhil/food-recipe*
-
+Repo: *https://github.com/moukhil/food-recipe*
+Live Demo: *https://food-recipe-topaz.vercel.app/*
 ---
 
 ### Secure File Transfer System                                                                  
 Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
 • Developed a full-stack Secure File Transfer System using React.js, Node.js, Express.js, and MongoDB, enabling authenticated users to securely upload, share, and access files through QR-based file transfer with JWT authentication and role-based access control. 
+
 • Implemented key features including user registration/login, protected REST APIs, admin approval dashboard, file upload, inbox, notifications, and QR code generation/scanning, then deployed the application using Vercel (frontend), Render (backend), and MongoDB Atlas (database).
 
 
-🔗 Repo: *https://github.com/moukhil/secure-file-transfer-qr*
-
+Repo: *https://github.com/moukhil/secure-file-transfer-qr*
+Live Demo: *https://secure-file-transfer-qr-frontend.vercel.app/*
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
-- 📧 Email: **shaikmoukhil@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/moukhil-shaik**
-- 🐙 GitHub: **https://github.com/moukhil**
+- Email: **shaikmoukhil@gmail.com**
+- LinkedIn: **https://linkedin.com/in/moukhil-shaik**
+- GitHub: **https://github.com/moukhil**
 
 ---
 
