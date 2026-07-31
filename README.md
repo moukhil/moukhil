@@ -68,40 +68,51 @@ I believe in **projects over certificates** and **skills over titles**.
 - <img src="https://img.icons8.com/color/48/idea.png" width="26"/> Problem Solving
 ---
 
-## Featured Projects
+### Featured Projects
 
-### E-Printing Application (Hackathon Winner)
-Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MongoDB
-• Developed a full-stack E-Printing platform using React.js, Node.js, Express.js, and MongoDB, enabling users to upload documents, customize print options, manage carts, and place print orders through a responsive web interface. 
+## E-Printing Application (Hackathon Winner)
 
-• Implemented secure REST APIs for authentication, file handling, cart and order management, along with an admin dashboard to monitor print requests and manage orders, contributing to a Hackathon-winning solution.
+**Tech Stack:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB
 
+- Developed a full-stack **E-Printing Platform** that enables users to upload documents, customize print options, manage carts, and place print orders through a responsive web interface.
+- Built secure RESTful APIs for authentication, document management, shopping cart, and order processing using Node.js, Express.js, and MongoDB.
+- Designed an **Admin Dashboard** to monitor print requests, manage customer orders, and streamline printing operations.
+- Awarded **Hackathon Winner** for delivering an innovative and user-friendly digital printing solution.
 
-Repo: *https://github.com/moukhil/e-printing*
-Live Demo: *https://e-printing-frontend.vercel.app/*
+**GitHub:** https://github.com/moukhil/e-printing
+
+**Live Demo:** https://e-printing-frontend.vercel.app/
 
 ---
 
-### Food Recipe Application                                                                         
-Tech Stack: React.js, Tailwind CSS, Spring Boot, MySQL, Maven
-• Engineered a full-stack recipe management system with React.js and Spring Boot, providing recipe search, detailed recipe views, recipe creation, and popular recipe recommendations. 
+## Food Recipe Application
 
-• Implemented RESTful APIs with Spring Data JPA and MySQL for persistent data storage, optimized frontend-backend communication, and deployed the application on Vercel and Render.
+**Tech Stack:** React.js • Tailwind CSS • Spring Boot • Spring Data JPA • MySQL • Maven
 
+- Engineered a full-stack **Recipe Management System** featuring recipe search, detailed recipe pages, recipe creation, and popular recipe recommendations.
+- Developed RESTful APIs using **Spring Boot** and **Spring Data JPA** with MySQL for efficient and persistent data management.
+- Implemented seamless frontend-backend integration, responsive UI, and optimized data retrieval for a smooth user experience.
+- Deployed the frontend on **Vercel** and the backend on **Render**, using cloud-hosted MySQL for data storage.
 
-Repo: *https://github.com/moukhil/food-recipe*
-Live Demo: *https://food-recipe-topaz.vercel.app/*
+ **GitHub:** https://github.com/moukhil/food-recipe
+
+ **Live Demo:** https://food-recipe-topaz.vercel.app/
+
 ---
 
-### Secure File Transfer System                                                                  
-Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
-• Developed a full-stack Secure File Transfer System using React.js, Node.js, Express.js, and MongoDB, enabling authenticated users to securely upload, share, and access files through QR-based file transfer with JWT authentication and role-based access control. 
+## Secure File Transfer System
 
-• Implemented key features including user registration/login, protected REST APIs, admin approval dashboard, file upload, inbox, notifications, and QR code generation/scanning, then deployed the application using Vercel (frontend), Render (backend), and MongoDB Atlas (database).
+**Tech Stack:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB • JWT
 
+- Developed a secure full-stack **File Transfer System** that allows authenticated users to upload, share, and access files using **QR Code-based file sharing**.
+- Implemented **JWT Authentication**, **Role-Based Access Control**, and an **Admin Approval System** to ensure secure user access.
+- Built features including user registration, login, protected REST APIs, file upload, inbox, notifications, QR code generation, and QR code scanning.
+- Deployed the frontend on **Vercel**, backend on **Render**, and database on **MongoDB Atlas** for a complete cloud-based solution.
 
-Repo: *https://github.com/moukhil/secure-file-transfer-qr*
-Live Demo: *https://secure-file-transfer-qr-frontend.vercel.app/*
+**GitHub:** https://github.com/moukhil/secure-file-transfer-qr
+
+**Live Demo:** https://secure-file-transfer-qr-frontend.vercel.app/
+
 ---
 
 ## Let’s Connect
